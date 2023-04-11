@@ -383,9 +383,9 @@
             }
         },
         {
-            "name": "纯净解析",
+            "name": "左岸解析",
             "type": 0,
-            "url": "https://im1907.top/?jx=",
+            "url": "https://jx.jsonplayer.com/player/?url=",
             "ext": {
                 "flag": [
                     "qq",
