@@ -345,6 +345,63 @@
             }
         },
         {
+            "name": "BL解析",
+            "type": 0,
+            "url": "https://vip.bljiex.com/?v=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "sohu"
+                ]
+            }
+        },
+        {
+            "name": "8090G",
+            "type": 0,
+            "url": "https://www.8090g.cn/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "sohu"
+                ]
+            }
+        },
+        {
+            "name": "MaoPlayer解析",
+            "type": 0,
+            "url": "https://www.mtosz.com/erzi.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "sohu"
+                ]
+            }
+        },
+        {
             "name": "左岸解析",
             "type": 0,
             "url": "https://jx.jsonplayer.com/player/?url=",
@@ -462,7 +519,7 @@
             }
         },
         {
-            "name": "AD解析",
+            "name": "爱豆解析",
             "type": 0,
             "url": "https://jx.aidouer.net/?url=",
             "ext": {
