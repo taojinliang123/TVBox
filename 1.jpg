@@ -88,7 +88,7 @@
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
 ],
     "lives": [
-       {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9qc2QuY2RuLnp6a28uY24vZ2gvWElBVElBTjIwMTMvemJ5QG1haW4vemJ5LnR4dA=="]}]}],
+       {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3hpYXRpYW4yMDIyL1kvcmF3L2JyYW5jaC9tYXN0ZXIvemJ5LnR4dA=="]}]}],
     "parses": [
         {
             "name": "Web并发",
