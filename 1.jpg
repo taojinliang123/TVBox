@@ -14,7 +14,8 @@
 {"key":"JSON官采","name":"JSON官采","type":1,"api":"https://cms.json.vin/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"M3U8TV","name":"M3U8TV","type":1,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
-{"key":"暴风资源","name":"暴风资源","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+"key":"火狐资源","name":"火狐资源","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+"key":"大漠资源","name":"大漠资源","type":1,"api":"https://damozy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},{"key":"暴风资源","name":"暴风资源","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"U酷资源","name":"U酷资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"江南资源","name":"江南资源","type":0,"api":"https://api.yjiexi.com/provide/xml.html","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"淘片资源","name":"淘片资源","type":1,"api":"https://taopianapi.com/home/cjapi/as/mc10/vod/json","playUrl":"","searchable":1,"quickSearch":1},
