@@ -3,7 +3,7 @@
     "spider": "https://mirror.ghproxy.com/https://github.com/taojinliang123/TVBox/blob/main/CustomSpider.jar",
     "sites": [
         {
-            "key": "爱上",
+            "key": "t爱上",
             "name": "爱上听书",
             "type": 3,
             "api": "https://ghp.ci/https://raw.githubusercontent.com/xzqcsa/ysc/df0917051d25c4f58236678b59f04b5797b000e9/xzqzy/lib1/drpy2.min.js",
@@ -114,15 +114,17 @@
         }
     ],
     "lives": [
-        {}
+        {
+            "name": "live",
+            "type": 0,
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt",
+            "playerType": 1,
+            "ua": "Dalvik/2.1.0 (Linux; U; Android 13; 22041216C Build/TP1A.220624.014)",
+            "epg": "https://epg.mxdyeah.top/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
     ],
     "parses": [
-        {
-            "name": "Json轮询（推荐）",
-            "type": 2,
-            "url": "Sequence"
-        },
-        null
     ],
     "flags": [
         "youku",
