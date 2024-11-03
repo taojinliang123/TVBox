@@ -3,6 +3,16 @@
     "spider": "https://mirror.ghproxy.com/https://github.com/taojinliang123/TVBox/blob/main/CustomSpider.jar",
     "sites": [
         {
+            "key": "22",
+            "name": "22听书网",
+            "type": 3,
+            "api": "https://ghp.ci/https://raw.githubusercontent.com/xzqcsa/ysc/df0917051d25c4f58236678b59f04b5797b000e9/xzqzy/lib1/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/taojinliang123/TVBox/refs/heads/main/22听书网"
+        },
+        {
             "key": "t爱上",
             "name": "爱上听书",
             "type": 3,
